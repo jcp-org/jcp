@@ -5,7 +5,7 @@
 </tr>
 </table>
 
-This is the public project for general discussions about JCP program. 
+This is the public project for general discussions about JCP program. Primarily it is used for reporting progress on milestone postings.
 
 * We use the <a href="https://github.com/jcp-org/jcp/issues">issue tracker</a> to record your comments and track issues.
 
